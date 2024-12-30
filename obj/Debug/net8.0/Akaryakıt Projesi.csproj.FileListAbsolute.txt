@@ -1,0 +1,28 @@
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.exe
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.deps.json
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.runtimeconfig.json
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.pdb
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\refint\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.pdb
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.genruntimeconfig.cache
+C:\Users\Windows\OneDrive\Masaüstü\akaryakıt projesi\Akaryakıt Projesi\Akaryakıt Projesi\obj\Debug\net8.0\ref\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.exe
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.deps.json
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.runtimeconfig.json
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\bin\Debug\net8.0\Akaryakıt Projesi.pdb
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\refint\Akaryakıt Projesi.dll
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.pdb
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\Akaryakıt Projesi.genruntimeconfig.cache
+C:\Users\Windows\OneDrive\Masaüstü\Akaryakıt Projesi\obj\Debug\net8.0\ref\Akaryakıt Projesi.dll
